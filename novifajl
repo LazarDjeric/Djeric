@@ -1,7 +1,6 @@
 private class  A{
 
 int count;
-
 }
 
 
