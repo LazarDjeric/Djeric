@@ -1,7 +1,6 @@
-public class  A{
+private class  A{
 
 int count;
-
 }
 
 
